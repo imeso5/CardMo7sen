@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Test Scanner")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e81ce80e21246d2e723246d651b263860e22aaa")]
 [assembly: System.Reflection.AssemblyProductAttribute("Test Scanner")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Test Scanner")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
