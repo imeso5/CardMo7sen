@@ -56,3 +56,62 @@ D:\FMS\Test Scanner\Test Scanner\Test Scanner\obj\Debug\net6.0-windows\refint\Te
 D:\FMS\Test Scanner\Test Scanner\Test Scanner\obj\Debug\net6.0-windows\Test Scanner.pdb
 D:\FMS\Test Scanner\Test Scanner\Test Scanner\obj\Debug\net6.0-windows\Test Scanner.genruntimeconfig.cache
 D:\FMS\Test Scanner\Test Scanner\Test Scanner\obj\Debug\net6.0-windows\ref\Test Scanner.dll
+C:\Users\WafaaAnwar\source\repos\CardMo7sen\bin\Debug\net6.0-windows\appsettings.Development.json
+C:\Users\WafaaAnwar\source\repos\CardMo7sen\bin\Debug\net6.0-windows\appsettings.json
+C:\Users\WafaaAnwar\source\repos\CardMo7sen\bin\Debug\net6.0-windows\Test Scanner.exe
+C:\Users\WafaaAnwar\source\repos\CardMo7sen\bin\Debug\net6.0-windows\Test Scanner.deps.json
+C:\Users\WafaaAnwar\source\repos\CardMo7sen\bin\Debug\net6.0-windows\Test Scanner.runtimeconfig.json
+C:\Users\WafaaAnwar\source\repos\CardMo7sen\bin\Debug\net6.0-windows\Test Scanner.dll
+C:\Users\WafaaAnwar\source\repos\CardMo7sen\bin\Debug\net6.0-windows\Test Scanner.pdb
+C:\Users\WafaaAnwar\source\repos\CardMo7sen\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\WafaaAnwar\source\repos\CardMo7sen\bin\Debug\net6.0-windows\Microsoft.OpenApi.dll
+C:\Users\WafaaAnwar\source\repos\CardMo7sen\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\WafaaAnwar\source\repos\CardMo7sen\bin\Debug\net6.0-windows\RJCP.Core.Environment.dll
+C:\Users\WafaaAnwar\source\repos\CardMo7sen\bin\Debug\net6.0-windows\RJCP.Core.SysCompat.dll
+C:\Users\WafaaAnwar\source\repos\CardMo7sen\bin\Debug\net6.0-windows\RJCP.Diagnostics.Trace.dll
+C:\Users\WafaaAnwar\source\repos\CardMo7sen\bin\Debug\net6.0-windows\RJCP.IO.Buffer.dll
+C:\Users\WafaaAnwar\source\repos\CardMo7sen\bin\Debug\net6.0-windows\RJCP.IO.Device.dll
+C:\Users\WafaaAnwar\source\repos\CardMo7sen\bin\Debug\net6.0-windows\RJCP.SerialPortStream.dll
+C:\Users\WafaaAnwar\source\repos\CardMo7sen\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\WafaaAnwar\source\repos\CardMo7sen\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\WafaaAnwar\source\repos\CardMo7sen\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\WafaaAnwar\source\repos\CardMo7sen\bin\Debug\net6.0-windows\System.IO.Ports.dll
+C:\Users\WafaaAnwar\source\repos\CardMo7sen\bin\Debug\net6.0-windows\de\RJCP.Core.Environment.resources.dll
+C:\Users\WafaaAnwar\source\repos\CardMo7sen\bin\Debug\net6.0-windows\runtimes\android-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\WafaaAnwar\source\repos\CardMo7sen\bin\Debug\net6.0-windows\runtimes\android-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\WafaaAnwar\source\repos\CardMo7sen\bin\Debug\net6.0-windows\runtimes\android-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\WafaaAnwar\source\repos\CardMo7sen\bin\Debug\net6.0-windows\runtimes\android-x86\native\libSystem.IO.Ports.Native.so
+C:\Users\WafaaAnwar\source\repos\CardMo7sen\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\WafaaAnwar\source\repos\CardMo7sen\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\WafaaAnwar\source\repos\CardMo7sen\bin\Debug\net6.0-windows\runtimes\linux-bionic-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\WafaaAnwar\source\repos\CardMo7sen\bin\Debug\net6.0-windows\runtimes\linux-bionic-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\WafaaAnwar\source\repos\CardMo7sen\bin\Debug\net6.0-windows\runtimes\linux-musl-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\WafaaAnwar\source\repos\CardMo7sen\bin\Debug\net6.0-windows\runtimes\linux-musl-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\WafaaAnwar\source\repos\CardMo7sen\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\WafaaAnwar\source\repos\CardMo7sen\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\WafaaAnwar\source\repos\CardMo7sen\bin\Debug\net6.0-windows\runtimes\maccatalyst-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\WafaaAnwar\source\repos\CardMo7sen\bin\Debug\net6.0-windows\runtimes\maccatalyst-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\WafaaAnwar\source\repos\CardMo7sen\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\WafaaAnwar\source\repos\CardMo7sen\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\WafaaAnwar\source\repos\CardMo7sen\obj\Debug\net6.0-windows\Test Scanner.csproj.AssemblyReference.cache
+C:\Users\WafaaAnwar\source\repos\CardMo7sen\obj\Debug\net6.0-windows\Test Scanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WafaaAnwar\source\repos\CardMo7sen\obj\Debug\net6.0-windows\Test Scanner.AssemblyInfoInputs.cache
+C:\Users\WafaaAnwar\source\repos\CardMo7sen\obj\Debug\net6.0-windows\Test Scanner.AssemblyInfo.cs
+C:\Users\WafaaAnwar\source\repos\CardMo7sen\obj\Debug\net6.0-windows\Test Scanner.csproj.CoreCompileInputs.cache
+C:\Users\WafaaAnwar\source\repos\CardMo7sen\obj\Debug\net6.0-windows\Test Scanner.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\WafaaAnwar\source\repos\CardMo7sen\obj\Debug\net6.0-windows\Test Scanner.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\WafaaAnwar\source\repos\CardMo7sen\obj\Debug\net6.0-windows\Test Scanner.sourcelink.json
+C:\Users\WafaaAnwar\source\repos\CardMo7sen\obj\Debug\net6.0-windows\staticwebassets.build.json
+C:\Users\WafaaAnwar\source\repos\CardMo7sen\obj\Debug\net6.0-windows\staticwebassets.development.json
+C:\Users\WafaaAnwar\source\repos\CardMo7sen\obj\Debug\net6.0-windows\staticwebassets\msbuild.Test Scanner.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\WafaaAnwar\source\repos\CardMo7sen\obj\Debug\net6.0-windows\staticwebassets\msbuild.build.Test Scanner.props
+C:\Users\WafaaAnwar\source\repos\CardMo7sen\obj\Debug\net6.0-windows\staticwebassets\msbuild.buildMultiTargeting.Test Scanner.props
+C:\Users\WafaaAnwar\source\repos\CardMo7sen\obj\Debug\net6.0-windows\staticwebassets\msbuild.buildTransitive.Test Scanner.props
+C:\Users\WafaaAnwar\source\repos\CardMo7sen\obj\Debug\net6.0-windows\staticwebassets.pack.json
+C:\Users\WafaaAnwar\source\repos\CardMo7sen\obj\Debug\net6.0-windows\scopedcss\bundle\Test Scanner.styles.css
+C:\Users\WafaaAnwar\source\repos\CardMo7sen\obj\Debug\net6.0-windows\Test Scanner.csproj.CopyComplete
+C:\Users\WafaaAnwar\source\repos\CardMo7sen\obj\Debug\net6.0-windows\Test Scanner.dll
+C:\Users\WafaaAnwar\source\repos\CardMo7sen\obj\Debug\net6.0-windows\refint\Test Scanner.dll
+C:\Users\WafaaAnwar\source\repos\CardMo7sen\obj\Debug\net6.0-windows\Test Scanner.pdb
+C:\Users\WafaaAnwar\source\repos\CardMo7sen\obj\Debug\net6.0-windows\Test Scanner.genruntimeconfig.cache
+C:\Users\WafaaAnwar\source\repos\CardMo7sen\obj\Debug\net6.0-windows\ref\Test Scanner.dll
